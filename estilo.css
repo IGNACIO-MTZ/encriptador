@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(49, 83, 91);
+ background: rgb(122,96,163);
+background: linear-gradient(90deg, rgba(122,96,163,1) 0%, rgba(41,161,168,1) 35%, rgba(101,31,128,1) 100%);
 }
 header {
   text-align: center;
